@@ -5,4 +5,4 @@ var addNumbers = function(a,b){
 var addResult = addNumbers(5,6);
 console.log(addResult);
 
-console.log(typeof(addNumbers));//function
+console.log(typeof(addNumbers));//function 
