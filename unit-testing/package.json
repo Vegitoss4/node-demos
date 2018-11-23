@@ -1,0 +1,17 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "Unit Testing\r ------------\r Breaking down the logic of the applications into smaller units and verifying that each unit works as we expect.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0"
+  }
+}
